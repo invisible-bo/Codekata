@@ -1,0 +1,6 @@
+gpt_env/
+__pycache__/
+*.pyc
+*.pyo
+.env
+simpletest.py
